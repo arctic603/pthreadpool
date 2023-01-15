@@ -1,0 +1,3 @@
+D:/vs_project/pthreadpool/out/build/x64-release/CMakeFiles/pthreadpool.dir
+D:/vs_project/pthreadpool/out/build/x64-release/CMakeFiles/edit_cache.dir
+D:/vs_project/pthreadpool/out/build/x64-release/CMakeFiles/rebuild_cache.dir
