@@ -1,5 +1,5 @@
 # pthreadpool
-# Posix线程库(支持VS环境)
+### Posix线程池(支持VS环境)
 
 ## 需要自行将项目中的DLL库进行配置到Windows的库lib
 ### POSIX 线程局限性
